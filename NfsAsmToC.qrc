@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="/">
+		<file>Code1.cpp</file>
+		<file>Code2.cpp</file>
+	</qresource>
+</RCC>
